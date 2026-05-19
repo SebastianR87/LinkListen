@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LinkListen</string>
+    <string name="home_title">Convierte cualquier artículo en audio</string>
+    <string name="home_subtitle">Pega un enlace y escucha sin usar las manos</string>
+    <string name="url_hint">Pega el enlace del artículo aquí…</string>
+    <string name="play_audio">Reproducir Audio</string>
+    <string name="home_footer">Compatible con artículos de sitios de noticias, blogs y más</string>
+    <string name="accessibility_title">Accesibilidad</string>
+    <string name="dark_mode">Modo Oscuro</string>
+    <string name="dark_mode_desc">Reduce la fatiga visual</string>
+    <string name="font_size">Tamaño de Letra</string>
+    <string name="font_size_desc">Ajusta el tamaño del texto</string>
+    <string name="font_preview">Vista previa: Así se verá el texto de tus artículos y noticias en la aplicación.</string>
+    <string name="high_contrast">Alto Contraste</string>
+    <string name="high_contrast_desc">Mayor visibilidad</string>
+    <string name="haptic">Vibración Táctil</string>
+    <string name="haptic_desc">Respuesta háptica en botones</string>
+    <string name="autoplay">Reproducción Automática</string>
+    <string name="autoplay_desc">Inicia el audio al cargar el artículo</string>
+    <string name="settings_saved_notice">La configuración se guarda automáticamente y se aplica a todas las pantallas</string>
+    <string name="settings">Ajustes de accesibilidad</string>
+    <string name="back">Volver</string>
+</resources>
