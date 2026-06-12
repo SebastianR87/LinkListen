@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">LinkListen</string>
     <string name="home_title">Convierte cualquier artículo en audio</string>
-    <string name="home_subtitle">Pega un enlace y escucha sin usar las manos</string>
+    <string name="home_subtitle">Pega un enlace, limpia el contenido y escucha lo importante sin distracciones</string>
     <string name="url_hint">Pega el enlace del artículo aquí…</string>
-    <string name="play_audio">Reproducir Audio</string>
-    <string name="home_footer">Compatible con artículos de sitios de noticias, blogs y más</string>
+    <string name="play_audio">Procesar Enlace</string>
+    <string name="home_footer">Compatible con artículos de sitios de noticias, blogs y páginas con texto principal identificable</string>
     <string name="accessibility_title">Accesibilidad</string>
     <string name="dark_mode">Modo Oscuro</string>
     <string name="dark_mode_desc">Reduce la fatiga visual</string>
@@ -20,4 +20,33 @@
     <string name="settings_saved_notice">La configuración se guarda automáticamente y se aplica a todas las pantallas</string>
     <string name="settings">Ajustes de accesibilidad</string>
     <string name="back">Volver</string>
+    <string name="processing_link">Procesando enlace…</string>
+    <string name="processing_desc">Estamos buscando el contenido principal para quitar anuncios, menús y bloques repetidos.</string>
+    <string name="processing_step_extract">Extrayendo contenido</string>
+    <string name="processing_step_clean">Limpiando texto</string>
+    <string name="processing_step_audio">Generando audio</string>
+    <string name="result_title">Lectura accesible</string>
+    <string name="result_summary">Resumen</string>
+    <string name="result_body">Contenido principal</string>
+    <string name="listen_article">Escuchar artículo</string>
+    <string name="stop_audio">Detener audio</string>
+    <string name="listening_now">Leyendo en voz alta</string>
+    <string name="ready_to_listen">Contenido listo para escuchar</string>
+    <string name="source_label">Fuente</string>
+    <string name="date_label">Fecha</string>
+    <string name="link_error_title">No se pudo procesar el enlace</string>
+    <string name="empty_link_error">Ingresa un enlace para comenzar.</string>
+    <string name="link_field_label">Enlace del artículo</string>
+    <string name="result_empty_state">Cuando proceses un enlace aquí aparecerá una versión limpia con el título, resumen y contenido principal.</string>
+    <string name="tts_not_ready">El lector de voz aún se está preparando.</string>
+    <string name="player_screen_title">Modo escucha</string>
+    <string name="player_progress">Fragmento %1$d de %2$d</string>
+    <string name="pause_audio">Pausar</string>
+    <string name="previous_fragment">Atrasar</string>
+    <string name="next_fragment">Adelantar</string>
+    <string name="show_full_text">Ver texto completo</string>
+    <string name="hide_full_text">Ocultar texto completo</string>
+    <string name="current_fragment">Texto guiado</string>
+    <string name="guided_fragment_number">Fragmento %1$d</string>
+    <string name="speed_label">%1$.2fx</string>
 </resources>
